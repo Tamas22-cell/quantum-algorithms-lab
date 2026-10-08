@@ -1,3 +1,5 @@
+![Advanced Quantum Algorithms Lab cover](f631b565-1f8e-43b0-b203-705d579bce7f.png)
+
 # Advanced Quantum Algorithms Lab
 
 A Python and Qiskit research portfolio demonstrating four foundational quantum algorithms, numerical simulation, and hybrid quantum-classical optimization.
